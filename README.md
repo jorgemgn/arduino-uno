@@ -5,7 +5,7 @@
 Different codes and assemblies will be collected in this repository using the Arduino UNO board.
 
 ## A bit of theory  
-- [Theory](THEORY.md)
+- [Theory](/impulse-switch)
 
 ## Examples  
 
