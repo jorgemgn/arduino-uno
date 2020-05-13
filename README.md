@@ -2,11 +2,11 @@
 
 <img src="/images/arduino-uno.jpg" width="400"/>
 
-Different codes and assemblies will be collected in this repository using the Arduino UNO board.
+Different codes and assemblies using the Arduino UNO board will be collected in this repository.
 
 ## A bit of theory  
-- [Theory](/impulse-switch)
+- [Theory](THEORY.md)
 
 ## Examples  
 
-- [Impulse switch](/impulse-switch/impulse-switch.ino)
+- [Impulse switch](/impulse-switch)
