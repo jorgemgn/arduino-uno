@@ -1,3 +1,3 @@
 # Wiring diagram  
 
-<img src="images/impulse-switch-wiring-diagram.jpg" width="400"/>
+![Wiring Diagram](/images/impulse-switch-wiring-diagram.jpg)
