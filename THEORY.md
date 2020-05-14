@@ -44,8 +44,29 @@ To avoid these erroneous readings, we use the pull up or pull down resistance.
 ## Four terminal push button  
 
 <p align="center">  
-<img src="images/4-terminal-push-button.jfif" width="300"/> 
+<img src="images/4-terminal-push-button.jfif" width="300"/>  
+  
+## Seven segment display  
+
+Consists of seven LEDs arranged in a rectagular fashion as shown. Each of the seven LEDs is called a segment because when illuminated, the segment forms part of an alphanumerical digit to be displayed.  
+An additional 8th LED is sometimes used to display decimal numbers.  
+
+<p align="center">  
+<img src="images/numbers-7-segment-display.jpg" width="300"/>  
+
+There are two types of display:  
+
+ - __Common Anode__:  
+ 
+<p align="center">  
+<img src="images/common-anode-7-segment-display.jpg" width="300"/>   
+ 
+ - __Common Cathode__:  
+ 
+ <p align="center">  
+<img src="images/common-cathode-7-segment-display.jpg" width="300"/>  
 
 ## Source  
 - https://www.fisic.ch/contenidos/electricidad/ley-de-ohm-y-resistencia/  
-- http://slotsyrockolas.blogspot.com/p/el-led.html
+- http://slotsyrockolas.blogspot.com/p/el-led.html  
+- https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html
