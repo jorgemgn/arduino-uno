@@ -63,10 +63,15 @@ There are two types of display:
  
  - __Common Cathode__:  
  
- <p align="center">  
+<p align="center">  
 <img src="images/common-cathode-7-segment-display.jpg" width="300"/>  
+  
+For protecting the Arduino UNO board, because the current demand of a 7-segment display can exceed 150 mA, we will use a transistor, such as the 2N2222.
+
+<img src="images/2N2222.png" aling="left" width="300"/> <img src="images/display-with-transistor.jpg" align="right" width="350"/> 
 
 ## Source  
 - https://www.fisic.ch/contenidos/electricidad/ley-de-ohm-y-resistencia/  
 - http://slotsyrockolas.blogspot.com/p/el-led.html  
-- https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html
+- https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html  
+- https://www.prometec.net/display-4digitos/
