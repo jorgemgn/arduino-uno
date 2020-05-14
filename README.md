@@ -4,6 +4,9 @@
 
 Different codes and assemblies using the Arduino UNO board will be collected in this repository.
 
+## Datasheet  
+- [Arduino UNO Datasheet](arduino-UNO-datasheet.pdf)
+
 ## A bit of theory  
 - [Theory](THEORY.md)
 
