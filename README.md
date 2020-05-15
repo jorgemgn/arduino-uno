@@ -14,4 +14,4 @@ Different codes and assemblies using the Arduino UNO board will be collected in 
 ## Examples  
 
 - [Impulse switch](/src/impulse-switch)  
-- [7 segment display](/src/7-segment-display)
+- [7 segment display](/src/7-segment-display) | TO-DO
