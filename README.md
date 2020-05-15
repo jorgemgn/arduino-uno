@@ -9,7 +9,11 @@ Different codes and assemblies using the Arduino UNO board will be collected in 
 - [Arduino UNO Datasheet](arduino-UNO-datasheet.pdf)
 
 ## A bit of theory  
-- [Theory](THEORY.md)
+- [Theory](THEORY.md)  
+
+## Materials 
+
+TO-DO
 
 ## Examples  
 
