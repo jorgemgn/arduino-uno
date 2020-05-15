@@ -64,7 +64,9 @@ There are two types of display:
  - __Common Cathode__:  
  
 <p align="center">  
-<img src="images/common-cathode-7-segment-display.jpg" width="300"/>  
+<img src="images/common-cathode-7-segment-display.jpg" width="300"/> 
+<p align="center">
+<img src="images/3241AS.jpg" width="300"/> 
   
 For protecting the Arduino UNO board, because the current demand of a 7-segment display can exceed 150 mA, we will use a transistor, such as the 2N2222.
 
