@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE.md)
+
 # Arduino UNO
 
 Different codes and assemblies using the Arduino UNO board will be collected in this repository.
