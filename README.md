@@ -16,10 +16,10 @@ Different codes and assemblies using the Arduino UNO board will be collected in 
 Jorge Miguel González Novez  |  _Technician in Electrotechnical and Automated Systems_
 
 ## Datasheet  
-- [Arduino UNO Datasheet](arduino-UNO-datasheet.pdf)
+- [Arduino UNO Datasheet](./docs/arduino-UNO-datasheet.pdf)
 
 ## A bit of theory  
-- [Theory](THEORY.md)  
+- [Theory](./docs/THEORY.md)  
 
 ## Materials 
 TO-DO
